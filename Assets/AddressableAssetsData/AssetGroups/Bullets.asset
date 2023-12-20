@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Bullets
+  m_EditorClassIdentifier: 
+  m_GroupName: Bullets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f03ff8ba3dc117c49b0f5b5811864bfc
+  m_SerializeEntries:
+  - m_GUID: db1d37204b46e8447bb1518d97908746
+    m_Address: LizardFireBallRight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 827b26b06d6ad494f867f6d534443337
+    m_Address: LizardFireBallLeft
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4ffc5e2cb1b1be4abf2f33ed5a22285
+    m_Address: LizardFireBallDown
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 519131cae7412934ebe6bc0dceeaf881
+    m_Address: SuperFireBall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b123afbe0859e604ebe9b51a64cb09f0
+    m_Address: FireBall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 921367a01a437fc499c9e168eeaa6be7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7b2a25c48c6814e4cae054f8ca0783e5, type: 2}
+    - {fileID: 11400000, guid: 4ec097394ccda8c46a92c5fcfa654ba5, type: 2}
